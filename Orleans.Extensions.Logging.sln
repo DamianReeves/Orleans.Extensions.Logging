@@ -12,6 +12,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".solution", ".solution", "{
 		LICENSE = LICENSE
 		NuGet.config = NuGet.config
 		README.md = README.md
+		RepositoryInfo.xml = RepositoryInfo.xml
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orleans.Extensions.Logging.Tests", "test\Orleans.Extensions.Logging.Tests\Orleans.Extensions.Logging.Tests.csproj", "{28CD7880-E8DE-43FC-8904-248383F80FD7}"
