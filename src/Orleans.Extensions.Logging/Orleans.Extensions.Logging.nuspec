@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <version>$version$</version>
+    <authors>$author$</authors>
+    <id>$id$</id>
+    <title>Orleans Logger/Telemetry extensions for Microsoft.Extensions.Logging</title>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Orleans Logger/Telemetry extensions for Microsoft.Extensions.Logging</description>
+    <licenseUrl>http://choosealicense.com/licenses/mit/</licenseUrl>
+    <copyright>Copyright 2016</copyright>
+    <summary>Orleans Logger/Telemetry extensions for Microsoft.Extensions.Logging</summary>
+    <projectUrl>https://github.com/OrleansContrib/Orleans.Extensions.Logging</projectUrl>
+    <tags>Orleans, Microsoft.Extensions.Logging, Logging, telemetry</tags>
+    <dependencies>
+      <group targetFramework="net451">
+        <dependency id="Microsoft.Extensions.Logging.Abstractions" version="1.0.0-rc2-final" />
+        <dependency id="Microsoft.Orleans.Core" version="1.2.1" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files />
+</package>

@@ -1,0 +1,15 @@
+﻿{
+    "supports": {},
+    "dependencies": {
+        "Microsoft.Extensions.Logging.Abstractions": "1.0.0-rc2-final",
+        "Microsoft.Orleans.Core": "1.2.1",
+        "NuSpec.ReferenceGenerator":  "2.0.0-beta-bld12" 
+    },
+    "frameworks": {
+        "net451": {
+        }
+    },
+    "runtimes": {
+        "win": "" 
+    }
+}
