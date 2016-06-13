@@ -20,5 +20,7 @@
       </group>
     </dependencies>
   </metadata>
-  <files />
+  <files>
+    <file src="bin\**\Orleans.Extensions.Logging.*" target="lib\net451" />
+  </files>
 </package>
