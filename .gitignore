@@ -195,6 +195,7 @@ artifacts/
 
 # Visual Studio Code
 .vscode/
+browse.VC.db
 
 # Build output
 .build/
